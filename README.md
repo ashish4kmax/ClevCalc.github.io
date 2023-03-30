@@ -5,6 +5,6 @@
 ![all pics](https://user-images.githubusercontent.com/111702590/228903701-d48bac85-ba42-4a70-a7e6-071fa469b549.PNG)
 
 
-* A video example of my website
-* https://user-images.githubusercontent.com/111702590/228903535-fbece154-08b4-43fe-b867-eb6005517527.mp4
+# A video example of my website
+https://user-images.githubusercontent.com/111702590/228903535-fbece154-08b4-43fe-b867-eb6005517527.mp4
 

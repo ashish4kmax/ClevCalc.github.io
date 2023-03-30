@@ -2,9 +2,6 @@
 * This is a multipurpose calculator used for calculations like arithmatic operations, bitwise operations , scientific calculator operations like factorial, sin,           cos, tan, log etc.
 * Below are some of the screenshots of my website and it's design for example
 
-![s1](https://user-images.githubusercontent.com/111702590/228903991-e978d5a0-e55d-461a-bf1b-816e78669bca.png)
-![geo1](https://user-images.githubusercontent.com/111702590/228904175-02a73e88-b548-4876-967a-f92db5d69eed.png)
-
 ![all pics](https://user-images.githubusercontent.com/111702590/228903701-d48bac85-ba42-4a70-a7e6-071fa469b549.PNG)
 
 
